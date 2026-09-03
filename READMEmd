@@ -1,0 +1,93 @@
+# Java Interview Preparation
+
+This repository contains my Java learning, implementation, and interview preparation journey.
+
+I am following a structured approach:
+
+**Learn → Understand → Implement → Practice → Review**
+
+---
+
+## 📚 Learning Roadmap
+
+### Basics
+- JDK, JRE, JVM
+- Java Compilation and Execution
+- Primitive and Reference Types
+- Stack and Heap
+- == vs equals()
+- String Pool
+- String Immutability
+- final keyword
+- Classes and Objects
+- Constructors
+- this keyword
+
+### OOP
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Abstract Classes
+
+### Collections
+- ArrayList
+- LinkedList
+- HashSet
+- LinkedHashSet
+- TreeSet
+- HashMap
+- LinkedHashMap
+- TreeMap
+- Queue
+- Deque
+- Iterator
+- Comparable
+- Comparator
+
+### Other Java Concepts
+- Exception Handling
+- Generics
+- Wrapper Classes
+- Autoboxing and Unboxing
+- Enum
+- Lambda Expressions
+- Functional Interfaces
+- Stream API
+- Optional
+
+### Advanced Java
+- JVM Architecture
+- Memory Management
+- Garbage Collection
+- Multithreading
+- Synchronization
+- ExecutorService
+- CompletableFuture
+
+### Backend
+- SQL
+- JDBC
+- Spring
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Kafka
+- Microservices
+
+---
+
+## 📁 Current Structure
+
+```text
+src
+└── Basics_01
+    ├── JdkJreJvm.java
+    ├── PrimitiveReference.java
+    ├── StringPool.java
+    ├── FinalKeyword.java
+    ├── ClassesObjects.java
+    ├── Constructors.java
+    └── StudentsInfoCollection.java
