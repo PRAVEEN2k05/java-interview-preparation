@@ -51,5 +51,6 @@ class Employee{
     void display(){
         System.out.println("Employee " + e_no +  " details" + " \nName : " + name +"\nAge : "+ age +"\nSalary : " + salary +"\nDepartment : " + department);
         System.out.println();
+        System.out.println("Hello world");
     }
 }
