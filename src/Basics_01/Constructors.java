@@ -1,5 +1,6 @@
 package Basics_01;
-
+/*Covering the topic of constructor overloading
+* DISCLAIMER : Constructor overriding is not possible*/
 public class Constructors {
     public static void main(String[] args) {
         Employees epm1 = new Employees();
@@ -28,7 +29,7 @@ class Employees{
         this.department = department;
     }
 
-    public Employees(String name, int age, double salary) {
+    public Employees(String name, int age, double salary) {    //constructor overloading
         this.name = name;
         this.age = age;
         this.salary = salary;
